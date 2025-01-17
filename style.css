@@ -1,0 +1,22 @@
+
+body {
+  background-color: burlywood;
+}
+
+input{
+	background-color: darkred;
+}
+
+h1 {
+  color: rosybrown;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 30px;
+}
+
+img {
+  width: 100%;
+}
